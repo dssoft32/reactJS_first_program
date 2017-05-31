@@ -6,6 +6,7 @@ React Features
  1. It re-renders on every update.
  2. It is fast and open source.
  3. React can be used on client as well as server side.
+ 
 Requirements
 -------------
 
